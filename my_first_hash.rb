@@ -2,7 +2,6 @@ def my_hash
   my_info = {
     "my_name" => "Allie"
   }
-
 end
 
 
